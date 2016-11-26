@@ -30,7 +30,7 @@ $(function() {
           "I wonder what you're multitasking chaining with.",
           "That doesn't look like a high chain number.",
           "May the RNGesus be ever in your favor.",
-          "I bet you're killing boredom with these flabor texts.",
+          "I bet you're killing boredom with these flavor texts.",
           "You should get the Pokémon Super Music Collection on iTunes.",
           "I hope you have a music playlist playing..",
           "This is gonna take awhile.",
