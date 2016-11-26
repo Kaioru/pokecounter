@@ -16,7 +16,7 @@ $(function() {
         el.text(num).fadeIn(fade);
       });
 
-      if (num > 0 && num % 10 == 0) {
+      if (num > 0 && num % 5 == 0) {
         var sub = $('#subtext');
         var subtexts = [
           "Shiny? Shiny.",
